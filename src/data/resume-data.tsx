@@ -16,15 +16,15 @@ export const RESUME_DATA: ResumeData = {
       preparing for international master’s studies in Computer Science.
     </>
   ),
-  avatarUrl: "https://avatars.githubusercontent.com/u/Tarun937",
-  personalWebsiteUrl: "https://github.com/Tarun937",
+  avatarUrl: "https://avatars.githubusercontent.com/u/tarun9307",
+  personalWebsiteUrl: "https://github.com/tarun9307",
   contact: {
     email: "tarunmass932007@gmail.com",
     tel: "",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/Tarun937",
+        url: "https://github.com/tarun9307",
         icon: "github",
       },
       {
@@ -89,7 +89,7 @@ export const RESUME_DATA: ResumeData = {
         "A full-featured Telegram bot for subscription management, verification workflows, admin approvals, and automated access control.",
       link: {
         label: "GitHub",
-        href: "https://github.com/mass9307/telegram-subscription-bot",
+        href: "https://github.com/tarun9307/telegram-subscription-bot",
       },
     },
     {
@@ -99,7 +99,7 @@ export const RESUME_DATA: ResumeData = {
         "Telegram bot integrated with external APIs to automate workflows, manage users, and trigger business actions.",
       link: {
         label: "GitHub",
-        href: "https://github.com/mass9307/telegram-automation-bot",
+        href: "https://github.com/tarun9307/telegram-automation-bot",
       },
     },
     {
@@ -109,7 +109,7 @@ export const RESUME_DATA: ResumeData = {
         "Browser automation scripts for dynamic websites, testing flows, and task automation.",
       link: {
         label: "GitHub",
-        href: "https://github.com/mass9307/playwright-automation",
+        href: "https://github.com/tarun9307/playwright-automation",
       },
     },
     {
@@ -119,7 +119,7 @@ export const RESUME_DATA: ResumeData = {
         "Collection of Python scripts for scraping, file processing, and workflow automation.",
       link: {
         label: "GitHub",
-        href: "https://github.com/mass9307/python-automation-scripts",
+        href: "https://github.com/tarun9307/python-automation-scripts",
       },
     },
     {
@@ -129,7 +129,7 @@ export const RESUME_DATA: ResumeData = {
         "Logic-building and system-level programs demonstrating strong fundamentals in C programming.",
       link: {
         label: "GitHub",
-        href: "https://github.com/mass9307/c-programming-practice",
+        href: "https://github.com/tarun9307/c-programming-practice",
       },
     },
   ],
