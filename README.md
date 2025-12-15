@@ -46,7 +46,7 @@ I am currently pursuing a **Bachelor of Computer Applications (BCA)** while free
 A full-featured Telegram bot for managing subscriptions, user verification, admin approvals, and automated access control.
 
 **Tech:** Python, Telegram API, PostgreSQL  
-🔗 Repo: https://github.com/Tarun937/telegram-subscription-bot
+🔗 Repo: https://github.com/tarun9307/telegram-subscription-bot
 
 ---
 
@@ -54,7 +54,7 @@ A full-featured Telegram bot for managing subscriptions, user verification, admi
 Telegram bot integrated with external APIs to automate workflows, manage users, and trigger business logic.
 
 **Tech:** Python, REST APIs  
-🔗 Repo: https://github.com/Tarun937/telegram-automation-bot
+🔗 Repo: https://github.com/tarun9307/telegram-automation-bot
 
 ---
 
@@ -62,7 +62,7 @@ Telegram bot integrated with external APIs to automate workflows, manage users, 
 Browser automation scripts for dynamic websites, testing flows, and task automation.
 
 **Tech:** Python, Playwright  
-🔗 Repo: https://github.com/Tarun937/playwright-automation
+🔗 Repo: https://github.com/tarun9307/playwright-automation
 
 ---
 
@@ -70,7 +70,7 @@ Browser automation scripts for dynamic websites, testing flows, and task automat
 Collection of Python scripts for scraping, file handling, and automation workflows.
 
 **Tech:** Python  
-🔗 Repo: https://github.com/Tarun937/python-automation-scripts
+🔗 Repo: https://github.com/tarun9307/python-automation-scripts
 
 ---
 
@@ -78,7 +78,7 @@ Collection of Python scripts for scraping, file handling, and automation workflo
 Logic-based and system-level programs demonstrating strong fundamentals in C programming.
 
 **Tech:** C  
-🔗 Repo: https://github.com/Tarun937/c-programming-practice
+🔗 Repo: https://github.com/tarun9307/c-programming-practice
 
 ---
 
@@ -103,5 +103,5 @@ If you’re interested in working together or discussing a project, feel free to
 ## 📫 Contact
 
 - **Email:** tarunmass932007@gmail.com  
-- **GitHub:** https://github.com/Tarun937  
+- **GitHub:** https://github.com/tarun9307  
 - **LinkedIn:** https://linkedin.com/in/tarun007
