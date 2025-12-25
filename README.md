@@ -54,7 +54,7 @@ A full-featured Telegram bot for managing subscriptions, user verification, admi
 Telegram bot integrated with external APIs to automate workflows, manage users, and trigger business logic.
 
 **Tech:** Python, REST APIs  
-🔗 Repo: https://github.com/tarun9307/telegram-automation-bot
+
 
 ---
 
@@ -62,7 +62,6 @@ Telegram bot integrated with external APIs to automate workflows, manage users, 
 Browser automation scripts for dynamic websites, testing flows, and task automation.
 
 **Tech:** Python, Playwright  
-🔗 Repo: https://github.com/tarun9307/playwright-automation
 
 ---
 
@@ -70,7 +69,6 @@ Browser automation scripts for dynamic websites, testing flows, and task automat
 Collection of Python scripts for scraping, file handling, and automation workflows.
 
 **Tech:** Python  
-🔗 Repo: https://github.com/tarun9307/python-automation-scripts
 
 ---
 
@@ -78,13 +76,12 @@ Collection of Python scripts for scraping, file handling, and automation workflo
 Logic-based and system-level programs demonstrating strong fundamentals in C programming.
 
 **Tech:** C  
-🔗 Repo: https://github.com/tarun9307/c-programming-practice
 
 ---
 
 ## 🌍 Portfolio Website
 
-🔗 **Live Portfolio:** https://
+🔗 **Live Portfolio:** https://itarun007.ct.ws/
 
 ---
 
