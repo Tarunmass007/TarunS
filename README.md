@@ -40,45 +40,6 @@ I am currently pursuing a **Bachelor of Computer Applications (BCA)** while free
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 Telegram Subscription Bot
-A full-featured Telegram bot for managing subscriptions, user verification, admin approvals, and automated access control.
-
-**Tech:** Python, Telegram API, PostgreSQL  
-🔗 Repo: https://github.com/tarun9307/telegram-subscription-bot
-
----
-
-### 🔹 Automation & API Bot
-Telegram bot integrated with external APIs to automate workflows, manage users, and trigger business logic.
-
-**Tech:** Python, REST APIs  
-
-
----
-
-### 🔹 Playwright Automation
-Browser automation scripts for dynamic websites, testing flows, and task automation.
-
-**Tech:** Python, Playwright  
-
----
-
-### 🔹 Python Automation Scripts
-Collection of Python scripts for scraping, file handling, and automation workflows.
-
-**Tech:** Python  
-
----
-
-### 🔹 C Programming Projects
-Logic-based and system-level programs demonstrating strong fundamentals in C programming.
-
-**Tech:** C  
-
----
-
 ## 🌍 Portfolio Website
 
 🔗 **Live Portfolio:** https://itarun007.ct.ws/
@@ -100,5 +61,5 @@ If you’re interested in working together or discussing a project, feel free to
 ## 📫 Contact
 
 - **Email:** tarunmass932007@gmail.com  
-- **GitHub:** https://github.com/tarun9307  
+- **GitHub:** https://github.com/Tarunmass007  
 - **LinkedIn:** https://linkedin.com/in/tarun007
